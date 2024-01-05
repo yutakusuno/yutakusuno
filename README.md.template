@@ -11,3 +11,7 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,react,materialui,graphql,ruby,py,nodejs,mysql,mongo,aws,docker,redis,elasticsearch,jenkins" />
 </a>
+
+### My Latest Dev.to Post
+
+{{ template "article-table" .Articles }}
