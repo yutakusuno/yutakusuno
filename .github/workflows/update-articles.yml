@@ -1,7 +1,7 @@
 name: "Cronjob"
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "15 0 * * *"
 
 jobs:
   update-articles:
@@ -15,7 +15,7 @@ jobs:
           username: yutakusuno
           template-file: "README.md.template"
           out-file: "README.md"
-          limit: 3
+          limit: 5
       - name: Commit
         run: |
           if git diff --exit-code; then

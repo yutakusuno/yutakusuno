@@ -14,4 +14,4 @@
 
 ### My Latest Dev.to Post
 
-{{ template "article-table" .Articles }}
+{{ template "article-list" .Articles }}
