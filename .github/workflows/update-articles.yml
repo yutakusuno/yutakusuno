@@ -1,7 +1,7 @@
-cname: "Cronjob"
+name: "Cronjob"
 on:
   schedule:
-    - cron: "40 * * * *"
+    - cron: "0 * * * *"
 
 jobs:
   update-articles:
