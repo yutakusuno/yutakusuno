@@ -8,6 +8,8 @@
 
 ### My Latest Dev.to Post
 
+
+- [[JS] CommonJS vs. ES Modules: Synchronous and Asynchronous Module Loading](https://dev.to/yutakusuno/js-commonjs-vs-es-modules-synchronous-and-asynchronous-module-loading-58jf) - 15/01/2024
 - [[JS] What happens when “use strict” is defined](https://dev.to/yutakusuno/js-what-happens-when-use-strict-is-defined-566f) - 05/01/2024
 - [[JS] The top-level scope is NOT always the global scope](https://dev.to/yutakusuno/js-the-top-level-scope-is-not-always-the-global-scope-4p84) - 03/01/2024
 - [[JS] Demystifying Hoisting](https://dev.to/yutakusuno/demystifying-hoisting-in-javascript-3ke3) - 03/01/2024
