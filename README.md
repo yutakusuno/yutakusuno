@@ -1,6 +1,6 @@
 ### Yuta Kusuno 👋
 
-- 🍣 Website: [yutakusuno.com](http://yutakusuno.com)
+- 🍣 Website: [yutakusuno.com](https://yutakusuno.vercel.app)
 - 🖇️ LinkedIn: [@yutakusuno](https://www.linkedin.com/in/yutakusuno/)
 - ✍️ Dev.to: [@yutakusuno](https://dev.to/yutakusuno)
 
